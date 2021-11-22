@@ -3932,7 +3932,7 @@ button:focus {
   z-index: 1;
 }
 .pu_banner_part .pu_banner_content .sub_title {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 700;
   color: #363a57;
   text-transform: uppercase;
@@ -3968,7 +3968,7 @@ button:focus {
   visibility: hidden;
 }
 .pu_banner_part .pu_banner_content .title {
-  font-size: 90px;
+  font-size: 60px;
   color: #faf7e3;
   font-weight: bold;
   text-transform: uppercase;
@@ -3979,26 +3979,26 @@ button:focus {
 }
 @media (max-width: 767.98px) {
   .pu_banner_part .pu_banner_content .title {
-    font-size: 40px;
+    font-size: 30px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991.98px) {
   .pu_banner_part .pu_banner_content .title {
-    font-size: 50px;
+    font-size: 40px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199.98px) {
   .pu_banner_part .pu_banner_content .title {
-    font-size: 60px;
+    font-size: 50px;
   }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1439px) {
   .pu_banner_part .pu_banner_content .title {
-    font-size: 60px;
+    font-size: 50px;
   }
 }
 .pu_banner_part .pu_banner_content .cu_btn {
-  margin-top: 37px;
+  margin-top: 30px;
   opacity: 0;
   visibility: hidden;
 }
